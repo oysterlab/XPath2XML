@@ -46,3 +46,6 @@ https://developer.mozilla.org/en-US/docs/Web/XPath/Axes
 
 (e.g. Step.ANCESTOR -> 'ancestor')
 
+## Reference
+- https://developer.mozilla.org/en-US/docs/Web/XPath
+- https://oozcitak.github.io/xmlbuilder2/
