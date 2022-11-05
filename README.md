@@ -14,12 +14,12 @@ const xml = toXml(xpaths)
 console.log(xml)
 
 /* //output
-	<?xml version="1.0"?>
-	<ButtonBasicText id="1" type="'text'" width="10">
-		<Background>
-				<UIPlateRect radious="'on'" color="'#ababab'"/>
-		</Background>
-	</ButtonBasicText>
+<?xml version="1.0"?>
+<ButtonBasicText id="1" type="'text'" width="10">
+	<Background>
+		<UIPlateRect radious="'on'" color="'#ababab'"/>
+	</Background>
+</ButtonBasicText>
 */
 ```
 
